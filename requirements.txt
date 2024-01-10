@@ -1,3 +1,4 @@
 # auto-createdweb3==0.7.4
 aiohttp==1.1.8
 eth-abi==2.0.2
+web3==2.5.4
