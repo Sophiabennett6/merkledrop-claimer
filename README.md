@@ -88,3 +88,4 @@
 - Update note 1031
 - Update note 4685
 - Update note 3970
+- Update note 1379
