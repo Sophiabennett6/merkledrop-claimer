@@ -36,3 +36,4 @@
 # optimize 4292
 # optimize 9802
 # fix 9475
+# optimize 2678
