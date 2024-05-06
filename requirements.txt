@@ -2,3 +2,4 @@
 aiohttp==1.1.8
 eth-abi==2.0.2
 web3==2.5.4
+requests==2.3.6
