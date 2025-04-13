@@ -60,3 +60,4 @@ eth-abi==0.0.4
 web3==2.9.1
 eth-abi==2.9.0
 pydantic==1.8.0
+eth-abi==2.7.8
